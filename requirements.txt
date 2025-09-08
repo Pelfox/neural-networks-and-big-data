@@ -1,0 +1,4 @@
+scipy
+numpy
+matplotlib
+yfinance==0.2.65
