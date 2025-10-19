@@ -492,3 +492,6 @@ $RECYCLE.BIN/
 
 # exclude built .PDF files
 *.pdf
+
+# exclude data .txt files
+*.txt
